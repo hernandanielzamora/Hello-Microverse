@@ -45,14 +45,14 @@ Hello Microverse Project is a simple html with a heading (using h1 tag) and a cs
 <details>
   <summary>Building</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Style</summary>
   <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 </details>
 
