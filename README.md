@@ -117,7 +117,7 @@ You can deploy this project using live server (VSC extension)
 ## 👥 Author <a name="authors">Hernán Zamora</a>
 
 - GitHub: [@hernandanielzamora](https://github.com/hernandanielzamora)
-- Twitter: [@twitterhandle](https://twitter.com/HernanZamora14)
+- Twitter: [@HernanZamora14](https://twitter.com/HernanZamora14)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/hernan-zamora-03a697236/)
 
 
