@@ -1,1 +1,167 @@
-# Hello-Microverse
+<a name="readme-top"></a>
+
+<div align="center">
+
+    <h3><b>Hello Microverse Project!</b></h3>
+    <h3><b>README<b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [Setup](#setup)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Run tests](#run-tests)
+- [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
+
+Hello Microverse Project is a simple html with a heading (using h1 tag) and a css stylesheet for that heading, changing
+the color, the font size and also the placement of that h1 tag. It also includes Linters for html and css (Lighthouse,
+Webhint, Stylelint) which are a great way to avoid syntax errors and keeping the integrity of the code format in the
+whole project.
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Hello Microverse Project is built with HTML5 and CSS3
+<details>
+    <summary>Client</summary>
+    <ul>
+        <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
+        <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+
+    </ul>
+</details>
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Header]**: Contains a simple message with styles (color - font size - position)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, just clone the repository.
+
+### Setup
+
+Clone this repository to your desired folder: 
+
+```1 - Go to the <> Code section in the repository.
+```2 - Select the https tab and copy the url provided.
+```3 - Use the git clone command in the root of the folder where you will save the project.
+
+Note: For more information you can visit <a href="https://docs.github.com/es/get-started/getting-started-with-git/about-remote-repositories">this link</a> and <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop">this link</a>.
+
+### Prerequisites
+
+In order to run this project you need:
+- Visual Studio Code
+- Live Server extension (in case you want to mock a deployment)
+- Git
+- Npm
+- Node
+
+### Install
+
+Install this project linters: 
+<b>Its really important that you do not change the any config file in any way.</b>
+
+```1 - Create a .github folder that contains the workflows folder (reulst will look like .github/workflows in your VSC), then add a copy of the following file <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.github/workflows/linters.yml">linters.yml</a>. 
+
+```2 - To instal Webhint, if you are using Windows, you will need to initialize npm and create a package.json file, you can do that with the following command: <code>npm init -y</code>. 
+      2.1 After that, you will have to run <code>npm install --save-dev hint@7.x</code>
+      2.2 Then, you have to create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.hintrc">.hintrc</a> file and copy its content.
+      2.3 Run <code>npx hint .</code>
+      2.4 Fix your validations errors
+
+```3 - To install Stylelint to avoid errors and enforce conventions in styles.
+      3.1 Run <code>npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x</code>
+      3.2 Create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.stylelintrc.json">.stylelintrc.json</a> file and copy its content.
+      3.3 Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors">Hernán Zamora</a>
+
+- GitHub: [@hernandanielzamora](https://github.com/hernandanielzamora)
+- Twitter: [@HernanZamora14](https://twitter.com/HernanZamora14)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/hernan-zamora-03a697236/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Building a webpage]**
+- [ ] **[Building navigation features (navbar - sections - menu)]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/). Or send them directly to me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project feel free to let me know via Linkedin - Github - Twitter. I will always appreciate your comments.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse  for the opportunity to grow as a professional and as a software developver. I would like to thank mi coding partners.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
