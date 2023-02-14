@@ -2,8 +2,8 @@
 
 <div align="center">
 
-    <h3><b>Hello Microverse Project!</b></h3>
-    <h3><b>README<b></h3>
+  <h2><b>Hello Microverse Project</b></h2>
+   <h3><b>Readme</b></h3>
 
 </div>
 
@@ -43,13 +43,11 @@ whole project.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Hello Microverse Project is built with HTML5 and CSS3
 <details>
     <summary>Client</summary>
     <ul>
         <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
         <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-
     </ul>
 </details>
 
@@ -75,9 +73,9 @@ To get a local copy up and running, just clone the repository.
 
 Clone this repository to your desired folder: 
 
-```1 - Go to the <> Code section in the repository.
-```2 - Select the https tab and copy the url provided.
-```3 - Use the git clone command in the root of the folder where you will save the project.
+  1 - Go to the <> Code section in the repository.
+  2 - Select the https tab and copy the url provided.
+  3 - Use the git clone command in the root of the folder where you will save the project.
 
 Note: For more information you can visit <a href="https://docs.github.com/es/get-started/getting-started-with-git/about-remote-repositories">this link</a> and <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop">this link</a>.
 
@@ -95,18 +93,18 @@ In order to run this project you need:
 Install this project linters: 
 <b>Its really important that you do not change the any config file in any way.</b>
 
-```1 - Create a .github folder that contains the workflows folder (reulst will look like .github/workflows in your VSC), then add a copy of the following file <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.github/workflows/linters.yml">linters.yml</a>. 
+  1 - Create a .github folder that contains the workflows folder (reulst will look like .github/workflows in your VSC), then add a copy of the following file <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.github/workflows/linters.yml" target="_blank">linters.yml</a>. 
 
-```2 - To instal Webhint, if you are using Windows, you will need to initialize npm and create a package.json file, you can do that with the following command: <code>npm init -y</code>. 
-      2.1 After that, you will have to run <code>npm install --save-dev hint@7.x</code>
-      2.2 Then, you have to create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.hintrc">.hintrc</a> file and copy its content.
-      2.3 Run <code>npx hint .</code>
-      2.4 Fix your validations errors
+  2 - To instal Webhint, if you are using Windows, you will need to initialize npm and create a package.json file, you can do that with the following command: <code>npm init -y</code>. <br></br>
+      - 2.1 After that, you will have to run <code>npm install --save-dev hint@7.x</code> <br></br>
+      - 2.2 Then, you have to create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.hintrc" target="_blank">.hintrc</a> file and copy its content. <br></br>
+      - 2.3 Run <code>npx hint .</code> <br></br>
+      - 2.4 Fix your validations errors <br></br>
 
-```3 - To install Stylelint to avoid errors and enforce conventions in styles.
-      3.1 Run <code>npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x</code>
-      3.2 Create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.stylelintrc.json">.stylelintrc.json</a> file and copy its content.
-      3.3 Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project.
+  3 - To install Stylelint to avoid errors and enforce conventions in styles. <br></br>
+      - 3.1 Run <code>npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x</code> <br></br>
+      - 3.2 Create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.stylelintrc.json" target="_blank">.stylelintrc.json</a> file and copy its content. <br></br>
+      - 3.3 Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
