@@ -28,7 +28,7 @@ Helllo Microverse Project is a simple html with a heading and a css stylesheet f
 ## 👥 Author <a name="authors">Hernán Zamora</a>
 
 - GitHub: [@hernandanielzamora]([https://github.com/githubhandle](https://github.com/hernandanielzamora))
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/hernan-zamora-03a697236/))
+- LinkedIn: [https://www.linkedin.com/in/hernan-zamora-03a697236/]
 
 
 <!-- LICENSE -->
