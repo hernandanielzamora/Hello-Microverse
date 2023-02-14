@@ -102,7 +102,7 @@ Install this project linters:
   3 - To install <b>Stylelint</b> to avoid errors and enforce conventions in styles. <br></br>
       - 3.1 Run <code>npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x</code> <br></br>
       - 3.2 Create a <a href="https://github.com/microverseinc/linters-config/blob/master/html-css/.stylelintrc.json" target="_blank">.stylelintrc.json</a> file and copy its content. <br></br>
-      - 3.3 Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project.
+      - 3.3 Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project. <br></br>
       - 3.4 Fix linter errors.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
