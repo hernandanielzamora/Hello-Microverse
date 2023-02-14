@@ -69,7 +69,6 @@ Hello Microverse Project is a simple html with a heading (using h1 tag) and a cs
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://www.loom.com/share/bd5a94c3223148c0a62f672e55f6ec08)
 
@@ -114,8 +113,6 @@ You can deploy this project using live server (VSC extension)
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 ## 👥 Author <a name="authors">Hernán Zamora</a>
 
