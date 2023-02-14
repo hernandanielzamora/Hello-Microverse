@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello Microverse Project</b></h3>
+  <h2><b>Hello Microverse Project</b></h2>
    <h3><b>Readme</b></h3>
 
 </div>
