@@ -112,8 +112,6 @@ You can deploy this project using live server (VSC extension)
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
 ## 👥 Author <a name="authors">Hernán Zamora</a>
 
 - GitHub: [@hernandanielzamora](https://github.com/hernandanielzamora)
