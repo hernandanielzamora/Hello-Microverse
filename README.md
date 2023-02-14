@@ -56,8 +56,6 @@ Hello Microverse Project is a simple html with a heading (using h1 tag) and a cs
   </ul>
 </details>
 
-<details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
