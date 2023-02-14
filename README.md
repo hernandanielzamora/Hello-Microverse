@@ -71,9 +71,9 @@ whole project.
 
 Clone this repository to your desired folder: 
 
-  1 - Go to the <> Code section in the repository.
-  2 - Select the https tab and copy the url provided.
-  3 - Use the git clone command in the root of the folder where you will save the project.
+  1 - Go to the <> Code section in the repository. <br></br>
+  2 - Select the https tab and copy the url provided. <br></br>
+  3 - Use the git clone command in the root of the folder where you will save the project.<br></br>
 
 Note: For more information you can visit <a href="https://docs.github.com/es/get-started/getting-started-with-git/about-remote-repositories">this link</a> and <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop">this link</a>.
 
