@@ -43,13 +43,11 @@ whole project.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Hello Microverse Project is built with HTML5 and CSS3
 <details>
     <summary>Client</summary>
     <ul>
         <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
         <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-
     </ul>
 </details>
 
